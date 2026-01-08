@@ -248,6 +248,4 @@ Vignesh A
 - Streamlit for the web interface
 - The open-source community
 
----
 
-**Note**: This is a learning project for educational purposes. For production use, consider additional security, scalability, and monitoring features.
