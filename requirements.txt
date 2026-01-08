@@ -1,0 +1,28 @@
+# Core dependencies - UPDATED
+google-genai
+faiss-cpu
+numpy
+pandas
+
+# NLP and text processing
+sentence-transformers
+nltk
+langchain
+langchain-google-genai
+
+# Web framework
+streamlit
+flask
+
+# Utilities
+python-dotenv
+pydantic
+tqdm
+
+# Data handling
+PyPDF2
+python-docx
+
+# Evaluation
+scikit-learn
+rouge-score
